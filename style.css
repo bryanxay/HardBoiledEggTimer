@@ -4,3 +4,18 @@ body{
     color: black;
     font-size: 18px;
 }
+
+#timer{
+    margin: 16px 0;
+}
+
+#time{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.buttons{
+    color: black;
+    margin: auto;
+    text-align: center;
+}
