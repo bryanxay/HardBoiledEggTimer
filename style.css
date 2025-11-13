@@ -17,5 +17,8 @@ body{
 .buttons{
     color: black;
     margin: auto;
-    text-align: center;
+    /* Use flexbox to lay out the buttons and center them horizontally */
+    display: flex;
+    justify-content: center;
+    gap: 8px;
 }
